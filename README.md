@@ -3,7 +3,7 @@
 <!-- Banner with animated coding scene --><p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Banner" /> 
 # 🚀 Thuận's Developer Profile
 ## 👨‍💻 Về Tôi
-</p><h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=👋+Xin+chào%2C+Tôi+là+Thuận+!;🎓+Sinh+viên+IUH+-+Kỹ+sư+Phần+mềm;💻+Full+Stack+Developer+enthusiast;🚀+Đam+mê+công+nghệ+và+sáng+tạo" alt="Typing SVG" /> </h1><p align="center"> <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i> </p>
+</p><h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=👋+Xin+chào%2C+Tôi+là+Thuận+!;🎓+Sinh+viên+IUH;🚀+Đam+mê+công+nghệ+và+sáng+tạo" alt="Typing SVG" /> </h1><p align="center"> <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i> </p>
 
 # 💻Tech Stack
 <p align="center">
