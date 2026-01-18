@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=nctcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.thuan.904135) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nguyen.thuan.904135) 
